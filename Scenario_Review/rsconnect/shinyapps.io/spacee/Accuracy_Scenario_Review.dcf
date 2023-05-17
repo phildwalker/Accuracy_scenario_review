@@ -1,0 +1,13 @@
+name: Accuracy_Scenario_Review
+title: Accuracy_Scenario_Review
+username:
+account: spacee
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8262507
+bundleId: 6880535
+url: https://spacee.shinyapps.io/Accuracy_Scenario_Review/
+when: 1677181752.09469
+lastSyncTime: 1677181752.0947
+asMultiple: FALSE
+asStatic: FALSE
